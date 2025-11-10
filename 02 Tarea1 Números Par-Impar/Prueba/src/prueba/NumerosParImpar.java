@@ -2,7 +2,7 @@ package prueba;
 
 /**
  *
- * @author emanuel
+ * @author emanuel ortega ventura
  */
 public class NumerosParImpar {
     public void validar(int numero){
